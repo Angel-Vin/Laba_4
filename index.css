@@ -1,0 +1,22 @@
+table{
+  width: 70%;
+  border: 1px solid #6c757d;
+  border-radius: 10px;
+  height: auto;
+
+}
+td{
+  padding: 10px;
+}
+.form-check-input{
+  zoom: 2;
+  margin-top: -9px;
+}
+.imageButton{
+  margin-right: 170px;
+}
+b{
+  font-family: "Comic Sans MS", serif;
+  font-size: 20px;
+
+}
